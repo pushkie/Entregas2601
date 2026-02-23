@@ -1,0 +1,19 @@
+
+{
+  "name": "Entregas 2601 - Rider",
+  "short_name": "Entregas2601",
+  "description": "Registro de entregas y pedidos para riders profesionales.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1E3A5F",
+  "theme_color": "#1E3A5F",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3195/3195884.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
