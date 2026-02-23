@@ -1,0 +1,18 @@
+# Dependencias
+node_modules/
+
+# Build de Vite
+dist/
+
+# Plataforma Android (Capacitor)
+android/
+
+# Configs de IDE
+.vscode/
+.idea/
+
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
